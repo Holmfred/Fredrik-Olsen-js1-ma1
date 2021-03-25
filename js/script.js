@@ -87,4 +87,3 @@ const newHTML = createCats(cats);
 
 const catContainer = document.querySelector(".cat-container");
 catContainer.innerHTML = newHTML;
-//function createCats(cats);
